@@ -1,3 +1,4 @@
+//index of first occurence in string program
 #include <iostream>
 #include <string.h>
 class Solution {

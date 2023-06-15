@@ -1,3 +1,4 @@
+//palindrome number program
 #include <iostream>
 bool isPalindrome(int x){
     if(x>=-2^31 && x<=2^31-1)

@@ -1,3 +1,4 @@
+//longest palindromic substring program
 #include <iostream>
 #include <string.h>
 class Solution {

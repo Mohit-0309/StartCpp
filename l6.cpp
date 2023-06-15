@@ -1,3 +1,4 @@
+//reverse integer program
 #include <iostream>
 int reverse(int x){
     long k=x;
